@@ -1,5 +1,5 @@
 /* universal style */
-html {
+ body {
     font-family: Verdana;
     color:white;
     text-align: center;
@@ -15,8 +15,8 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
-media {
-    align-content: center;
+img.smlimg, video {
+    padding-top: 30px;
 }
 
 h2 {
